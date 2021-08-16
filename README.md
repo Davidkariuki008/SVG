@@ -1,4 +1,4 @@
-# SVG
+# SVM
 
 The svg.ipynb file has the python code
 
